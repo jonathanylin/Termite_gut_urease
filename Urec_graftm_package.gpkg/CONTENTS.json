@@ -1,0 +1,1 @@
+{"unaligned_sequence_database": "graftmdFCcTB.faa", "align_hmm": "graftmJFVO3M.hmm", "range": 808.5, "refpkg": "Urec_graftm_package.gpkg.refpkg", "trusted_cutoff": false, "diamond_database": "Urec_sequences_FINAL.dmnd", "graftm_package_version": 3, "search_hmms": ["graftmkPwVob_search.hmm"]}

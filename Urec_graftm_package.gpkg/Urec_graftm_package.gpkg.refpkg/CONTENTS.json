@@ -1,0 +1,53 @@
+{
+    "files": {
+        "phylo_model": "phylo_modelDjTk8a.json", 
+        "taxonomy": "Urec_sequences_FINAL_taxonomy.csv", 
+        "tree": "treeeSCP0V.tre", 
+        "aln_fasta": "Urec_sequences_FINAL_deduplicated_aligned.fasta", 
+        "seq_info": "Urec_sequences_FINAL_seqinfo.csv", 
+        "tree_stats": "Urec_sequences_FINAL.tre.log"
+    }, 
+    "rollback": {
+        "files": {
+            "phylo_model": "phylo_modelDjTk8a.json", 
+            "taxonomy": "Urec_sequences_FINAL_taxonomy.csv", 
+            "tree": "Urec_sequences_FINAL.tre", 
+            "aln_fasta": "Urec_sequences_FINAL_deduplicated_aligned.fasta", 
+            "seq_info": "Urec_sequences_FINAL_seqinfo.csv", 
+            "tree_stats": "Urec_sequences_FINAL.tre.log"
+        }, 
+        "rollback": null, 
+        "metadata": {
+            "create_date": "2018-05-14 10:06:00", 
+            "format_version": "1.1", 
+            "locus": "/tmp/tmp5Cz4NE/Urec_sequences_FINAL"
+        }, 
+        "md5": {
+            "phylo_model": "ef3e1dc4a6296a93d46f5e1347aa22fd", 
+            "taxonomy": "3694a35b8dc0feeae02e6704912f1bc2", 
+            "tree": "b6fd99188e08922d706c2e00b61624ba", 
+            "aln_fasta": "893d99512e629882e9c4621caf2fbfde", 
+            "seq_info": "ab69e3cd4c312fc9045b0e2af09ade15", 
+            "tree_stats": "917f60c2e931b860a6d72bd2a7c1acd6"
+        }
+    }, 
+    "log": [
+        "Rerooted", 
+        "Stripped refpkg (removed 0 files)", 
+        "Loaded initial files into empty refpkg"
+    ], 
+    "metadata": {
+        "create_date": "2018-05-14 10:06:00", 
+        "format_version": "1.1", 
+        "locus": "/tmp/tmp5Cz4NE/Urec_sequences_FINAL"
+    }, 
+    "rollforward": null, 
+    "md5": {
+        "phylo_model": "ef3e1dc4a6296a93d46f5e1347aa22fd", 
+        "taxonomy": "3694a35b8dc0feeae02e6704912f1bc2", 
+        "tree": "d3f2525b7f312238e597a1f0cc3d46a6", 
+        "aln_fasta": "893d99512e629882e9c4621caf2fbfde", 
+        "seq_info": "ab69e3cd4c312fc9045b0e2af09ade15", 
+        "tree_stats": "917f60c2e931b860a6d72bd2a7c1acd6"
+    }
+}
